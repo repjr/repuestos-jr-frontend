@@ -1,0 +1,28 @@
+{
+  "name": "repuestos-jr-frontend",
+  "version": "1.0.0",
+  "description": "Web de la venta de Repuestos JR",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/repjr/repuestos-jr-frontend.git"
+  },
+  "keywords": [
+    "Repuestos",
+    "Ventas"
+  ],
+  "author": "Sergio Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/repjr/repuestos-jr-frontend/issues"
+  },
+  "homepage": "https://github.com/repjr/repuestos-jr-frontend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "materialize-css": "^1.0.0-rc.2",
+    "nodemon": "^1.18.6"
+  }
+}
